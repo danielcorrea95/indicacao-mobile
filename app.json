@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "indicacao",
+    "slug": "indicacao",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": ["js", "jsx", "ts", "tsx", "svg"]
+    }
+  },
+  "name": "indicacao"
+}
